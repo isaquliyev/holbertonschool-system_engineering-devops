@@ -1,6 +1,6 @@
 # 3. Scale up
 
-<p align="center"><img src="https://github.com/isaquliyev/holbertonschool-system_engineering-devops/blob/master/web_infrastructure_design/task_3.png"></p>
+<p align="center"><img src="https://github.com/isaquliyev/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/task_3.png"></p>
 
 
 ## Infrastructure Expansion:
